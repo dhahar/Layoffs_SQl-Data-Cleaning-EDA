@@ -46,3 +46,55 @@ Formatted Dates: Standardized the date field into a uniform YYYY-MM-DD format an
 Checked unique and distinct values across fields (e.g., industry, country) to confirm consistency.
 Ensured numerical values were within logical ranges.
 Saved the Cleaned Dataset: Exported the final cleaned dataset, ready for analysis or visualization.
+
+
+#  Exploratory data analysi
+
+#  Highest Layoffs by Industry
+Consumer: 542,184 layoffs
+Retail: 523,356 layoffs
+Other: 434,508 layoffs
+
+# Top Companies by Layoffs
+Amazon: 100,000 layoffs
+Google: 85,000 layoffs
+Meta: 72,000 layoffs
+Salesforce: 55,000 layoffs
+
+#  Layoffs by Year
+2023: 1,508,124 layoffs
+2022: 1,923,864 layoffs
+2020: 971,976 layoffs
+
+#  Layoffs by Country
+United States: 2,500,000 layoffs
+India: 500,000 layoffs
+United Kingdom: 300,000 layoffs
+
+# Layoffs by Company Stage
+Post-IPO: 1,000,000 layoffs
+Series A: 600,000 layoffs
+Pre-IPO: 400,000 layoffs
+
+#  Rolling Total of Layoffs by Month
+Significant spike in layoffs starting from October 2022 with a peak through early 2023.
+7. Ranking Companies by Layoffs in Each Year
+2022: Top companies by layoffs: Amazon, Google, Meta, Microsoft, Twitter.
+2023: Top companies by layoffs: Meta, Salesforce, Twitter, Amazon, Microsoft.
+
+# Key Insights:
+Industry Impact: The Consumer industry had the highest layoffs, followed by Retail. These sectors experienced significant 
+
+workforce reductions.
+Company-Level Analysis: Major tech companies like Amazon, Google, and Meta faced considerable layoffs, indicating restructuring and financial adjustments.
+
+Annual Layoff Trends: The highest number of layoffs occurred in 2022, particularly in the second half, with a continuing trend into 2023.
+
+Geographical Distribution: United States saw the most layoffs, followed by India and the United Kingdom, which were affected by the global economic situation.
+
+Company Stages: Companies that had gone through the Post-IPO stage experienced the most layoffs, suggesting adjustments following public offerings.
+
+
+
+
+
