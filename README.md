@@ -1,4 +1,4 @@
-# Layoffs_SQl-Data-Cleaning-EDA
+# Layoffs_SQl-Data-Cleaning
 
 # Data Overview
 The dataset provides information on layoffs in various companies from 2020 to 2023. It captures details about companies, their locations, industries, and layoff trends during this period. The dataset is useful for analyzing trends in layoffs, identifying industries most affected, and understanding the scale and distribution of workforce reductions globally.
