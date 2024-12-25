@@ -1,4 +1,19 @@
 # Layoffs_SQl-Data-Cleaning-EDA
+
+# Data Overview
+The dataset provides information on layoffs in various companies from 2020 to 2023. It captures details about companies, their locations, industries, and layoff trends during this period. The dataset is useful for analyzing trends in layoffs, identifying industries most affected, and understanding the scale and distribution of workforce reductions globally.
+
+# Description of Dataset
+company:	The name of the company that conducted layoffs.
+location:	The city or region where the layoffs occurred.
+industry:	The sector or industry to which the company belongs (e.g., Tech, Finance).
+total_laid_off:	The total number of employees laid off by the company.
+percentage_laid_off	:The percentage of the company’s workforce laid off (if available).
+date:	The date when the layoffs were reported or announced (formatted as YYYY-MM-DD).
+stage	:The company’s funding or operational stage (e.g., Startup, Growth, Late).
+country:	The country where the company is headquartered or layoffs occurred.
+funds_raised_millions:	The total funding raised by the company (in millions of USD).
+
 # Data Cleaning Steps for the Layoffs Dataset (2020-2023)
 1. Loaded the Dataset: Imported the raw layoffs dataset into the database for processing and analysis.
 
